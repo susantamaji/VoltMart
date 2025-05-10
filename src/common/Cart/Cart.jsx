@@ -59,7 +59,7 @@ const Cart = ({ CartItem, addToCart, decreaseQty }) => {
           <div className='cart-total product'>
             <h2>Cart Summary</h2>
             <div className=' d_flex'>
-              <h4>Total Price :</h4>
+              <h4>Totalll Prices :</h4>
               <h3>${totalPrice}.00</h3>
             </div>
           </div>
